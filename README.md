@@ -1,6 +1,6 @@
 # Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors
 
-**Jiangang Wang | Qingnan Fan | Qi Zhang | Haigen Liu | Yuhang Yu | Jinwei Chen | Wenqi Ren**
+**Jiangang Wang | [Qingnan Fan](https://fqnchina.github.io/) | [Qi Zhang](https://rwenqi.github.io/) | Haigen Liu | Yuhang Yu | Jinwei Chen | [Wenqi Ren](https://rwenqi.github.io/)**
 
 > Shenzhen Campus of Sun Yat-sen University  
 > vivo Mobile Communication Co. Ltd
