@@ -6,6 +6,13 @@
 > vivo Mobile Communication Co. Ltd
 
 ---
+### 📄 Paper Access
+
+If you encounter difficulties opening the paper on arXiv, you can find it in the following directory: `paper/2412.07152v1.pdf`. 
+
+Alternatively, you can download it directly from Google Drive via the following link:  **[Hero-SR PDF](https://drive.google.com/file/d/1MAo5SvEvqlFPd-vwUq6w6-M6dvNgAcdY/view?usp=sharing)**  
+
+----
 
 ### 🔥 Code Availability
 
