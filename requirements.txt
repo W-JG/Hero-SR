@@ -1,0 +1,12 @@
+einops
+numpy==1.25.0
+opencv-python
+pillow
+tqdm
+torch
+torchvision
+transformers
+diffusers==0.25.1
+peft==0.10.0
+xformers>=0.0.20
+huggingface_hub==0.25.2
